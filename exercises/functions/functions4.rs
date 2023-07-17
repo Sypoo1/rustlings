@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 // functions4.rs
 //
 // This store is having a sale where if the price is an even number, you get 10
